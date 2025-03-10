@@ -5,10 +5,10 @@
 MITHAP is a dynamic tech community designed to bridge the gap between learning and real-world software development. Whether you're an aspiring Btech/BCA Student or a seasoned tech enthusiast, MITHAP provides hands-on projects, expert guidance, and collaboration opportunities to help you grow.
 
 🔹 **What We Offer?**
-✅ Real-world coding tasks & open-source projects
-✅ Expert-led mentorship & career guidance
-✅ Job alerts, webinars, and industry insights
-✅ Resources for mastering MERN, MEAN, databases, APIs, and more
+1.  Real-world coding tasks & open-source projects
+2. Expert-led mentorship & career guidance
+3. Job alerts, webinars, and industry insights
+4. Resources for mastering MERN, MEAN, databases, APIs, and more
 
 Join us, upskill, and build industry-level projects while connecting with like-minded developers. Let’s code, learn, and grow together! 🚀
 
