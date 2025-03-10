@@ -23,11 +23,11 @@ Join us, upskill, and build industry-level projects while connecting with like-m
 Step 1: Let's Connect!
 📅 Start with a casual Google Meet session where we discuss your programming interests and help you choose the right tech path.
 
-Step 2: Join the Community
-🔗 Become a part of our live Discord Community and get access to upcoming tasks, projects, and expert guidance.
-
-Step 3: Hands-on Learning
+Step 2: Hands-on Learning
 💡 We guide you every step of the way, ensuring you gain real-world experience in software development.
+
+Step 3: Join the Community
+🔗 Go ahead and join our live Discord Community **([Click here](https://discord.gg/hKHuHfWV "Click here"))** and get access to upcoming tasks, projects, and expert guidance.
 
 ------------
 
